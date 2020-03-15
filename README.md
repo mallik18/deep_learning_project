@@ -18,5 +18,9 @@ Numpy,
 Keras,
 Tensorflow
 
+#HOW TO RUN
+First run the Data_preparation.py file for data to be processed first and then run the train.py file to train the model, you can run train.py file as many times you want.
+
+#CNN-DIGIT-CLASSIFIER
 
 
